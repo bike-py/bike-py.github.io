@@ -6,7 +6,7 @@ tags:
       - 学习记录
 ---
 
-##### 一、安装jekyll 及环境
+##### **一、安装jekyll 及环境**
 
 1. 进入ubuntu系统，打开terminal终端，输入指令：sudo apt-get install ruby rubygems-integration ruby-bundler ruby-dev
 
@@ -20,11 +20,11 @@ tags:
 
    一直回车
 
-二、选择模板
+**二、选择模板**
 
 去jekyll（http://jekyllthemes.org/）官网下载一个模板，解压
 
-三、调试程序
+**三、调试程序**
 
 cd命令进入解压后的文件夹执行指令：jekyll build 
 
@@ -32,7 +32,7 @@ cd命令进入解压后的文件夹执行指令：jekyll build
 
 打开浏览器地址栏输入：http://127.0.0.1:4000/就可以看到模板的界面了
 
-四、实践操作环境
+**四、实践操作环境**
 
 1. 选择模板 dbyll  Domo地址 (http://dbtek.github.io/dbyll/)
 
