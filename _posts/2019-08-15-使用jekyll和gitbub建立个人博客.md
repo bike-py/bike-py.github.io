@@ -38,11 +38,11 @@ cd命令进入解压后的文件夹执行指令：jekyll build
 
    github 地址(https://github.com/dbtek/dbyll)
 
-![1565852859866](/home/bike/.config/Typora/typora-user-images/1565852859866.png)选择 Fork 克隆到自己的github仓库 然后回到仓库的项目地址 选择Settings 
+![1565852859866](/Typora/typora-user-images/1565852859866.png)选择 Fork 克隆到自己的github仓库 然后回到仓库的项目地址 选择Settings 
 
 
 
-![1565852982367](/home/bike/.config/Typora/typora-user-images/1565852982367.png)
+![1565852982367](/Typora/typora-user-images/1565852982367.png)
 
 修改Repository name 为 （<username>.github.io） username为你自己的 github 用户名  然后点击 Rename 进行修改
 
@@ -52,13 +52,13 @@ cd命令进入解压后的文件夹执行指令：jekyll build
 
     
 
-![1565853423122](/home/bike/.config/Typora/typora-user-images/1565853423122.png)
+![1565853423122](/Typora/typora-user-images/1565853423122.png)
 
 cd命令进入模板文件夹执行指令：jekyll build 
 
 编译完成启动测试：执行指令 jekyll server 
 
-![1565853570900](/home/bike/.config/Typora/typora-user-images/1565853570900.png)
+![1565853570900](/Typora/typora-user-images/1565853570900.png)
 
 打开 http://127.0.0.1:4000 可以看见调试内容 然后根据自己需求修改_config.yml 内容 以及其他文件内容 
 
@@ -88,7 +88,7 @@ name: 名字
    git status　查看当前状态
    git commit -m "备注（例如；配置修改）" 提交到本地版本仓库
    git remote add origin https://github.com/bike-py/bike-py.github.io.git  链接到github 仓库
-   git push origin master 上传本地分支master内容到github
+   git push origin master  输入github账号密码上传本地分支master内容到github
    ~~~
 
 打开 自己的博客主页 https://bike-py.github.io/ 就可以看见效果了
@@ -99,7 +99,7 @@ name: 名字
 
    要注意本地的分支名字 和 girhub的分支名字要对应 自己本地是 master github的显示是gh-pages 导致自己修改很多次 在github上面 总是看不见修改的内容  
 
-   ![1565854411734](/home/bike/.config/Typora/typora-user-images/1565854411734.png)
+   ![1565854411734](/Typora/typora-user-images/1565854411734.png)
 
 这里可以查看 切换分支 
 
@@ -126,4 +126,3 @@ git remote add origin https://github.com/bike-py/bike-py.github.io.git
 $git fetch origin    //获取远程更新
 $git merge origin/master //把更新的内容合并到本地分支
 ```
-
