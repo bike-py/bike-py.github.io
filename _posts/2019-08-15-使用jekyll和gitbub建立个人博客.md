@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "使用jekyll和gitbub建立个人博客"
+title:  "使用jekyll和github建立个人博客"
 date:   2019-08-15 14:38:21 +0800
 tags:
       - 学习记录
