@@ -105,6 +105,8 @@ git push origin master  输入github账号密码上传本地分支master内容�
 
 这里可以查看 切换分支 
 
+git branch  可以查看本地分支名字
+
 **git配置过程中fatal:拒绝合并无关的历史**
 
 首先将远程仓库和本地仓库关联起来：
