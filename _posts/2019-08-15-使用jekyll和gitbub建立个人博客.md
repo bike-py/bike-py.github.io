@@ -34,7 +34,7 @@ cd命令进入解压后的文件夹执行指令：jekyll build
 
 **四、实践操作环境**
 
-**选择模板 **
+选择模板
 
 dbyll  Domo地址 (http://dbtek.github.io/dbyll/)
 
